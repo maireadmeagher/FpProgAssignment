@@ -1,2 +1,1 @@
-# FpProgAssignment
-Functional Programming Assignment 
+# fpProgAss
